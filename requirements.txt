@@ -45,7 +45,6 @@ pyparsing==2.4.7
 pyrsistent
 python-dateutil==2.8.1
 pytz
-pywin32
 pywinpty==0.5.7
 pyzmq
 scipy
