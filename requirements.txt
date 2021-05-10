@@ -59,8 +59,7 @@ PyQtWebEngine
 pyrsistent                 
 pystache                   
 python-dateutil            
-pytz                       
-pywin32                    
+pytz                 
 pywinpty                   
 PyYAML                     
 pyzmq                      
